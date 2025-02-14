@@ -13,7 +13,7 @@
 - 🚀 Passionate about **AI-powered web & mobile apps**
 - 🌍 Building **TripGenius** – an AI-driven travel planner
 - 🎯 Open-source contributor & tech enthusiast
-- 📫 Reach me at **[your email]** or **[LinkedIn Profile]**
+- 📫 Reach me at **ganeshlekurwale1510@gmail.com** or **linkedin.com/in/ganesh-lekurwale-865654205**
 
 ---
 
@@ -37,7 +37,7 @@
 > Showcasing my skills, projects, and achievements.  
 **Tech Used:** Next.js, TailwindCSS, Vercel  
 
-🔗 **See more:** [GitHub Repositories](https://github.com/NikhilRaut?tab=repositories)
+🔗 **See more:** [GitHub Repositories](https://github.com/Ganeshlekurwale?tab=repositories)
 
 ---
 
