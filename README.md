@@ -13,7 +13,7 @@
 - 🚀 Passionate about **AI-powered web & mobile apps**
 - 🌍 Building **TripGenius** – an AI-driven travel planner
 - 🎯 Open-source contributor & tech enthusiast
-- 📫 Reach me at **ganeshlekurwale1510@gmail.com** or **linkedin.com/in/ganesh-lekurwale-865654205**
+- 📫 Reach me at **[ganeshlekurwale1510@gmail.com]** or **[linkedin.com/in/ganesh-lekurwale-865654205]**
 
 ---
 
@@ -51,8 +51,8 @@
 
 ## 🏅 **GitHub Stats & Badges**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilRaut&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilRaut&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshlekurwale&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshlekurwale&theme=radical" width="50%">
 </p>
 
 ### **Top Skills**
