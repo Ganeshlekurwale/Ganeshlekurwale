@@ -29,6 +29,10 @@
 - 📬 Connect: [ganeshlekurwale1510@gmail.com](mailto:ganeshlekurwale1510@gmail.com) | [LinkedIn](https://linkedin.com/in/ganesh-lekurwale-865654205)
 
 ---
+## 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,python,typescript,js,nextjs,html,css,git,github,linux,postman,vercel" />
+</p>
 
 ## 🚀 Featured Projects
 
